@@ -1,0 +1,11 @@
+zig-cache/
+zig-out/
+
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.zip
+*.7z
+*.tar
